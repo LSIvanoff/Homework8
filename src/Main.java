@@ -32,6 +32,7 @@ public class Main {
                 System.out.print(three[j] + "\n");
 
         }
+        System.out.println();
 
         System.out.println("Task 3");
         for (int b = one.length - 1; b >= 0; b--) {
@@ -56,6 +57,7 @@ public class Main {
                 System.out.print(", ");
             }
         }
+        System.out.println();
         System.out.println();
 
 
